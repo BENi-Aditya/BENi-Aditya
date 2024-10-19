@@ -8,7 +8,7 @@ I'm a developer passionate about leveraging technology to create impactful and m
 
 ### 🌟 **Featured Projects**
 
-- [**MayDay Smart Calendar App**](https://github.com/BENi-Aditya/MayDay)  
+- [**MayDay Smart Calendar App**]([https://github.com/BENi-Aditya/MayDay](https://github.com/BENi-Aditya/Calendar_app))  
   An AI-driven mobile app that simplifies scheduling by automatically allocating time for tasks, so you can stay organized effortlessly.
 
 - [**NutriScan AI**](https://github.com/BENi-Aditya/BENi-AI-Nutritional-Tracker)  
