@@ -14,7 +14,7 @@ I'm a developer passionate about leveraging technology to create impactful and m
 - [**NutriScan AI**](https://github.com/BENi-Aditya/BENi-AI-Nutritional-Tracker)  
   Provides nutritional information, expiry alerts, and personalized dietary advice by scanning food items using advanced AI and image recognition.
 
-- [**Sea-UP**](https://github.com/BENi-Aditya/Waste-Segregation-with-Roboflow-and-Arduino))  
+- [**Sea-UP**] (https://github.com/BENi-Aditya/Waste-Segregation-with-Roboflow-and-Arduino))  
   This project uses machine learning and computer vision to automatically detect and sort plastic waste using Arduino. It’s designed to improve recycling efficiency by automating waste segregation
 ---
 
