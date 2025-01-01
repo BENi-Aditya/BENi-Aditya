@@ -8,6 +8,10 @@ I'm a developer passionate about leveraging technology to create impactful and m
 
 ### 🌟 **Featured Projects**
 
+
+- [**VitalScans.AI**](https://github.com/BENi-Aditya/VitalScans.AI)  
+  An AI-powered diagnostic tool that analyzes medical scans for conditions like pneumonia, tuberculosis, and fractures. Upload a scan and receive annotated results with confidence scores in seconds. It features a ChatGPT-driven Q&A system for exploring diagnoses in detail, making healthcare diagnostics more accessible and efficient.
+
 - [**MayDay Smart Calendar App**](https://github.com/BENi-Aditya/Calendar_app)  
   An AI-driven mobile app that simplifies scheduling by automatically allocating time for tasks, so you can stay organized effortlessly.
 
@@ -17,8 +21,6 @@ I'm a developer passionate about leveraging technology to create impactful and m
 - [**Sea-UP**](https://github.com/BENi-Aditya/Waste-Segregation-with-Roboflow-and-Arduino)  
   This project uses machine learning and computer vision to automatically detect and sort plastic waste using Arduino. It’s designed to improve recycling efficiency by automating waste segregation
 
-- [**VitalScans.AI**](https://github.com/BENi-Aditya/VitalScans.AI)  
-  An AI-powered diagnostic tool that analyzes medical scans for conditions like pneumonia, tuberculosis, and fractures. Upload a scan and receive annotated results with confidence scores in seconds. It features a ChatGPT-driven Q&A system for exploring diagnoses in detail, making healthcare diagnostics more accessible and efficient.
 ---
 
 ### 📊 **GitHub Stats**
