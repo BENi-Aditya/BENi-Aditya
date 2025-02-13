@@ -50,3 +50,5 @@ I'm a developer passionate about leveraging technology to create impactful and m
 
 ### 🌐 **Get in Touch**
 - [GitHub](https://github.com/BENi-Aditya)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=BENi-Aditya&color=blue)
