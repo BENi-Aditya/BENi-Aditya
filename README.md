@@ -5,24 +5,41 @@
 
 I'm a developer passionate about leveraging technology to create impactful and meaningful projects. With a deep interest in AI, IoT, and web development, my focus is on crafting solutions that enhance productivity, improve accessibility, and drive innovation.
 
+
+
 ---
+
+
 
 ### 🌟 **Featured Projects**
 
 
-- [**VitalScans.AI**](https://github.com/BENi-Aditya/VitalScans.AI)  
-  An AI-powered diagnostic tool that analyzes medical scans for conditions like pneumonia, tuberculosis, and fractures. Upload a scan and receive annotated results with confidence scores in seconds. It features a ChatGPT-driven Q&A system for exploring diagnoses in detail, making healthcare diagnostics more accessible and efficient.
 
-- [**MayDay Smart Calendar App**](https://github.com/BENi-Aditya/Calendar_app)  
-  An AI-driven mobile app that simplifies scheduling by automatically allocating time for tasks, so you can stay organized effortlessly.
+### 🔬 [VitalScans.AI](https://github.com/BENi-Aditya/VitalScans.AI)
+> Upload X-ray scans to detect lung diseases like pneumonia and tuberculosis, along with bone fracture detection.
 
-- [**NutriScan AI**](https://github.com/BENi-Aditya/BENi-AI-Nutritional-Tracker)  
-  Provides nutritional information, expiry alerts, and personalized dietary advice by scanning food items using advanced AI and image recognition.
+### 🥗 [NutriScan.AI](https://github.com/BENi-Aditya/BENi_AI_Nutritional_Tracker)
+> Scan packaged food items to instantly get nutritional information, check for allergens, and track expiry dates using barcodes and AI.
 
-- [**Sea-UP**](https://github.com/BENi-Aditya/Waste-Segregation-with-Roboflow-and-Arduino)  
-  This project uses machine learning and computer vision to automatically detect and sort plastic waste using Arduino. It’s designed to improve recycling efficiency by automating waste segregation
+### 📆 [**MayDay Smart Calendar App**](https://github.com/BENi-Aditya/Calendar_app)
+> An AI-driven mobile app that simplifies scheduling by automatically allocating time for tasks, so you can stay organized effortlessly.
+
+### 🗑️ [**Sea-UP**](https://github.com/BENi-Aditya/Waste-Segregation-with-Roboflow-and-Arduino)  
+> This project uses machine learning and computer vision to automatically detect and sort plastic waste using Arduino. It’s designed to improve recycling efficiency by automating waste segregation
+
 
 ---
+
+## 🚀 Current Build: [VibeCode](https://github.com/BENi-Aditya/VibeCode-MVP)
+
+> VibeCode is an AI-powered, cloud-native IDE where users can describe their software in plain English or voice, and see it turn into working code with full environment setup—right from their browser.
+
+🔗 **Official Website:** [https://vibecode.org.in](https://vibecode.org.in)
+
+
+
+  
+
 
 ### 📊 **GitHub Stats**
 
