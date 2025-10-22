@@ -8,7 +8,7 @@ I'm a developer passionate about leveraging technology to create impactful and m
 
 ### 🌟 **Featured Projects**
 
-## 🦅 [Horn-Bill: AI-Powered Reforestation Drone](https://github.com/BENi-Aditya/Horn-Bill)
+## 🦅 [Horn-Bill: AI-Powered Reforestation Drone](https://github.com/BENi-Aditya/Drone_Brain)
 > **Horn-Bill** is an AI-powered autonomous drone system designed to accelerate reforestation by identifying suitable areas for seed dropping using vegetation analysis and physics-based precision.  
 > It combines **AI**, **IoT**, and **aeronautical design** to plant seeds autonomously — integrating real-time camera inference, wind-compensated drop mechanics, and eco-friendly seed bombs.
 
