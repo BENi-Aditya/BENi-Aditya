@@ -70,7 +70,7 @@ I'm a developer passionate about leveraging technology to create impactful and m
 [![Trophies](https://github-profile-trophy.vercel.app/?username=BENi-Aditya&theme=vue-dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-https://www.canva.com/design/DAG5nJHvULQ/tHm25X9EORE5yijxNpVJvQ/edit?utm_content=DAG5nJHvULQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 
 ### 🌐 **Get in Touch**
 - [GitHub](https://github.com/BENi-Aditya)
