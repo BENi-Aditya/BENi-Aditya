@@ -18,13 +18,6 @@ I'm a developer passionate about leveraging technology to create impactful and m
 
 ---
 
-## 🚀 Current Build: [VibeCode](https://github.com/BENi-Aditya/VibeCode-MVP)
-> VibeCode is an AI-powered, cloud-native IDE where users can describe their software in plain English or voice, and see it turn into working code with full environment setup—right from their browser.
-
-🔗 **Official Website:** [https://vibecode.org.in](https://vibecode.org.in)
-
----
-
 ### 🔬 [VitalScans.AI](https://github.com/BENi-Aditya/VitalScans.AI)
 > Upload X-ray scans to detect lung diseases like pneumonia and tuberculosis, along with bone fracture detection.
 
