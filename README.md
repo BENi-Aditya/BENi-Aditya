@@ -153,7 +153,7 @@ A smart waste segregation system that combines Roboflow computer vision with Ard
 </td>
 
 <td style="border:1px solid #888;">
-<img src="images/GIF image.gif" width="100%">
+<img src="images/jatayu.gif" width="100%">
 </td>
 
 </tr>
