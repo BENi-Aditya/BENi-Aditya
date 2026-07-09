@@ -16,7 +16,7 @@
 </td>
 
 <td width="33.33%" style="border:1px solid #888;">
-<img src="images/hornbill/image-2.gif" width="100%">
+<img src="images/hornbill/iamge-2.gif" width="100%">
 </td>
 
 <td width="33.33%" style="border:1px solid #888;">
