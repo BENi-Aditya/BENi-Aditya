@@ -40,6 +40,41 @@ Horn-Bill is an autonomous drone system designed for reforestation. It identifie
 </table>
 
 ---
+<table width="100%" cellspacing="0" cellpadding="8">
+<tr>
+<td colspan="3" style="border:1px solid #888;"><b>• Blind Sight</b></td>
+</tr>
+
+<tr>
+<td width="33.33%" style="border:1px solid #888;">
+<img src="images/Aditya Tripathi Portfolio Image.png" width="100%">
+</td>
+
+<td width="33.33%" style="border:1px solid #888;">
+<img src="images/GIF image.gif" width="100%">
+</td>
+
+<td width="33.33%" style="border:1px solid #888;">
+<img src="images/Capture-2026-07-09-135122.png" width="100%">
+</td>
+</tr>
+
+<tr>
+<td style="border:1px solid #888;">
+<a href="https://github.com/BENi-Aditya/Blind-Accesibility-Device"><b>Blind Sight</b></a>
+</td>
+
+<td style="border:1px solid #888;">
+A Raspberry Pi-powered wearable that provides real-time audio feedback for obstacle detection and navigation assistance.
+</td>
+
+<td style="border:1px solid #888;">
+<a href="https://youtu.be/8FhNYJAvp90?si=TlzIMzzUjoemsxwi">YouTube Demo</a>
+</td>
+</tr>
+</table>
+
+---
 
 <table width="100%" cellspacing="0" cellpadding="8">
 
