@@ -54,7 +54,7 @@ Horn-Bill is an autonomous drone system designed for reforestation. It identifie
 </td>
 
 <td width="33.33%" style="border:1px solid #888;">
-<img src="images/JPEG image.jpeg" width="100%">
+<img src="images/July 9 Screenshot from PNG to JPG.jpg" width="100%">
 </td>
 
 </tr>
