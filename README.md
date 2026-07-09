@@ -76,6 +76,7 @@ A Raspberry Pi-powered wearable that provides real-time audio feedback for obsta
 
 ---
 
+
 <table width="100%" cellspacing="0" cellpadding="8">
 
 <tr>
