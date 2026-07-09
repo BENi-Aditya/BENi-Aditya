@@ -3,7 +3,6 @@
 </p>
 
 ---
-##THIS PAGE IS STILL UNDEER PROGRESS 9/7/2026
 ## Notable Electronics Projects
 
 <table width="100%" cellspacing="0" cellpadding="8">
@@ -31,7 +30,7 @@
 </td>
 
 <td style="border:1px solid #888;">
-Horn-Bill is an autonomous drone system designed for reforestation. It identifies barren land and precisely deploys eco-friendly seed bombs to accelerate large-scale afforestation.
+Horn-Bill is an autonomous drone system designed for reforestation. It identifies barren patches of land and precisely deploys eco-friendly seed bombs to accelerate large-scale afforestation.
 </td>
 
 <td style="border:1px solid #888;">
@@ -55,7 +54,7 @@ Horn-Bill is an autonomous drone system designed for reforestation. It identifie
 </td>
 
 <td width="33.33%" style="border:1px solid #888;">
-Image Coming Soon
+<img src="images/JPEG image.jpeg" width="100%">
 </td>
 
 </tr>
@@ -67,7 +66,7 @@ Image Coming Soon
 </td>
 
 <td style="border:1px solid #888;">
-<b>Whybit Rebuild</b>
+<a href="https://github.com/BENi-Aditya/WhyBit-rebuild"><b>Whybit Rebuild</b></a>
 </td>
 
 <td style="border:1px solid #888;">
@@ -83,7 +82,7 @@ A Bluetooth-controlled Arduino RC car equipped with ultrasonic obstacle detectio
 </td>
 
 <td style="border:1px solid #888;">
-An open-source ESP32-C3 powered 3D-printed rover rebuilt from the ground up as a modular robotics platform for experimentation and learning.
+An open-source ESP32-C3 powered 3D-printed rebuild of the WhyBit rover, designed as a modular robotics platform for experimentation and learning.
 </td>
 
 <td style="border:1px solid #888;">
@@ -115,11 +114,11 @@ A smart waste segregation system that combines Roboflow computer vision with Ard
 <tr>
 
 <td style="border:1px solid #888;">
-Image Coming Soon
+<img src="images/iLoveIMG Logo (1).jpg" width="100%">
 </td>
 
 <td style="border:1px solid #888;">
-Image Coming Soon
+<img src="images/GIF image.gif" width="100%">
 </td>
 
 </tr>
@@ -133,7 +132,7 @@ A social platform where builders showcase projects, discover ideas, and connect 
 </td>
 
 <td style="border:1px solid #888;">
-An open-source flight controller PCB designed and developed in India. Built by students, Jatayu is a work-in-progress hardware platform focused on advancing accessible drone technology.
+An open-source flight controller PCB designed and built in India. Developed by students, Jatayu is a work-in-progress hardware platform focused on making advanced drone technology more accessible.
 </td>
 
 </tr>
@@ -161,15 +160,15 @@ An open-source flight controller PCB designed and developed in India. Built by s
 <tr>
 
 <td width="33.33%" style="border:1px solid #888;">
-<img src="https://placehold.co/400x400?text=Project+1" width="100%">
+<img src="images/Jul 9 Screenshot from PNG to JPG (1).jpg" width="100%">
 </td>
 
 <td width="33.33%" style="border:1px solid #888;">
-<img src="https://placehold.co/400x400?text=Project+2" width="100%">
+<img src="images/Pnemonia from Aditya Tripathi.png" width="100%">
 </td>
 
 <td width="33.33%" style="border:1px solid #888;">
-<img src="https://placehold.co/400x400?text=Project+3" width="100%">
+<img src="images/Jul 9 Screenshot from PNG to JPG (2).jpg" width="100%">
 </td>
 
 </tr>
@@ -177,15 +176,19 @@ An open-source flight controller PCB designed and developed in India. Built by s
 <tr>
 
 <td style="border:1px solid #888;">
-Project 1
+<a href="https://github.com/BENi-Aditya/VibeCode-MVP"><b>VibeCode</b></a><br><br>
+<a href="https://vibecode.openbuilder.in">Website</a><br>
+<a href="https://www.youtube.com/watch?v=qky4DxjHTt4&t=8s">YouTube Demo</a>
 </td>
 
 <td style="border:1px solid #888;">
-Project 2
+<a href="https://github.com/BENi-Aditya/VitalScans.AI"><b>VitalScans</b></a><br><br>
+<a href="https://vitalscan.onrender.com/">Website</a><br>
+<a href="https://www.youtube.com/watch?v=_AQBNQMcyCo">YouTube Demo</a>
 </td>
 
 <td style="border:1px solid #888;">
-Project 3
+<a href="https://github.com/BENi-Aditya/WatchAlong"><b>Watch Along</b></a>
 </td>
 
 </tr>
@@ -193,17 +196,18 @@ Project 3
 <tr>
 
 <td style="border:1px solid #888;">
-Coming Soon
+An AI-native cloud IDE with dedicated workspaces for ideation, environment setup, coding, debugging, and testing-all in one seamless workflow.
 </td>
 
 <td style="border:1px solid #888;">
-Coming Soon
+An AI-powered medical imaging system that detects pneumonia, tuberculosis, and bone fractures using OpenCV, Roboflow models, and instance segmentation, achieving up to 94% accuracy.
 </td>
 
 <td style="border:1px solid #888;">
-Coming Soon
+A real-time watch party platform where friends can watch YouTube together with synchronized playback, live chat, video calling, and shared media controls.
 </td>
 
 </tr>
 
 </table>
+
