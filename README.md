@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="images/readme.jpg" alt="README Banner" width="100%">
 </p>
